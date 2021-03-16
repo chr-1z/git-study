@@ -18,7 +18,7 @@ https://git-scm.com/download
 
     [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto;
 
-    [x] Você quer colocar seu projeto na nuvem.
+    [X] Você quer colocar seu projeto na nuvem.
 
 `git init` - inicia a linha do tempo, cria pontos na história do projeto;
 
